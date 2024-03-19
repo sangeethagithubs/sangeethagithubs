@@ -1,4 +1,4 @@
-  #Hi, I’m Sangeetha 👋
+  # Hi, I’m Sangeetha 👋
 - 👀 I’m interested in exploring new technologies, software development, and problem-solving.
 - 🌱 I’m currently learning Python programming language.
 - 🧑‍🤝‍🧑 I’m looking to collaborate on Java projects, particularly those related to web development or software engineering.
