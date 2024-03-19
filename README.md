@@ -14,7 +14,7 @@ Languages and Tools:
 ![image](https://github.com/sangeethagithubs/sangeethagithubs/assets/137398167/09949621-a6b3-4304-b145-14ee34b50b56)
 ![image](https://github.com/sangeethagithubs/sangeethagithubs/assets/137398167/dcfaff5e-3c33-479c-b3c6-7f2b1536f143)
 ![image](https://github.com/sangeethagithubs/sangeethagithubs/assets/137398167/01fc1c10-c22e-4352-9d1d-62317509483f)
-![image](https://github.com/sangeethagithubs/sangeethagithubs/assets/137398167/c583d874-3217-4991-b141-159e6c73147a)
+
 
 
   
