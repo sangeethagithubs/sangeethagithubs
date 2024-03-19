@@ -5,8 +5,8 @@
 - 📫 How to reach me sangeethabhat1231@gmail.com
 - 😄 Pronouns: She/her
   
-Languages and Tools:
-C++, Core and Advance Java, Python                                                                                                                                              Spring Boot, Java Script, HTML, CSS, MYSQL.
+# Languages and Tools:
+•C++, Core and Advance Java, Python                                                                                                                                              Spring Boot, Java Script, HTML, CSS, MYSQL.
 
 
 
