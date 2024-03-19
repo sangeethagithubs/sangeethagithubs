@@ -6,14 +6,7 @@
 - 😄 Pronouns: She/her
   
 Languages and Tools:
-→ C++
-→ Core and Advance Java
-→ Python
-→ Spring Boot
-→ Java Script
-→ HTML
-→ CSS
-→ MYSQL
+C++, Core and Advance Java, Python                                                                                                                                              Spring Boot, Java Script, HTML, CSS, MYSQL.
 
 
 
