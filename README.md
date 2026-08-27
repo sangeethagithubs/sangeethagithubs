@@ -11,7 +11,7 @@
 - 😄 Pronouns: She/her
   
 # 🛠️ Technologies & Tools
-• ☁️ Cloud: Microsoft Azure<br>
+• ☁️ Cloud: Microsoft Azure,AWS<br>
 • 🏗️ Infrastructure as Code: Terraform<br>
 • 🔄 CI/CD: Jenkins<br>
 • 📂 Version Control: Git, GitHub<br>
