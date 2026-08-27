@@ -1,12 +1,27 @@
   # Hi, I’m Sangeetha 👋
-- 👀 I’m interested in exploring new technologies, software development, and problem-solving.
-- 🌱 I’m currently learning Python programming language.
-- 🧑‍🤝‍🧑 I’m looking to collaborate on Java projects, particularly those related to web development or software engineering.
+  🚀 DevOps Engineer | Azure | Terraform | CI/CD | Cloud Automation
+- ☁️ DevOps Engineer with experience in Microsoft Azure & Cloud Infrastructure
+- 🏗️ Hands-on experience with Terraform & Infrastructure as Code (IaC)
+- 🔄 Experience with CI/CD, Jenkins, Git & GitHub
+- 🖥️ Experience in Windows Server & Azure VM administration
+- 🔧 Worked with Zabbix, Azure Monitor & infrastructure monitoring
+- ☁️ Interested in Cloud Automation, DevOps & Infrastructure Engineering
+- 📚 Continuously improving my skills in DevOps and Cloud technologies
 - 📫 How to reach me hksangeetha2@gmail.com
 - 😄 Pronouns: She/her
   
-# Languages and Tools:
-• C++, Core and Advance Java, Python                                                                                                                                              Spring Boot, Java Script, HTML, CSS, MYSQL.
+# 🛠️ Technologies & Tools
+• **Cloud**: Microsoft Azure
+• **Infrastructure as Code: **Terraform
+• **CI/CD:** Jenkins
+• **Version Control:** Git, GitHub
+• **OS & Infrastructure:** Windows Server, Azure VMs
+• **Monitoring:** Zabbix, Azure Monitor
+• **Programming:** Java, Python
+• **Database: **MySQL
+
+# 🎯 DevOps Skills
+Azure | Terraform | Git | GitHub | Jenkins | CI/CD | Infrastructure as Code | Cloud Automation | Monitoring
 
 
 
