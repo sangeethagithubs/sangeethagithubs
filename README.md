@@ -11,15 +11,14 @@
 - 😄 Pronouns: She/her
   
 # 🛠️ Technologies & Tools
-
-• **Cloud**: Microsoft Azure
-• **Infrastructure as Code:** Terraform
-• **CI/CD:** Jenkins
-• **Version Control:** Git, GitHub
-• **OS & Infrastructure:** Windows Server, Azure VMs
-• **Monitoring:** Zabbix, Azure Monitor
-• **Programming:** Java, Python
-• **Database:** MySQL
+• ☁️ Cloud: Microsoft Azure
+• 🏗️ Infrastructure as Code: Terraform
+• 🔄 CI/CD: Jenkins
+• 📂 Version Control: Git, GitHub
+• 🖥️ Infrastructure: Azure VMs, Windows Server
+• 📊 Monitoring: Zabbix, Azure Monitor
+• 💻 Programming: Java, Python
+• 🗄️ Database: MySQL
 
 # 🎯 DevOps Skills
 Azure | Terraform | Git | GitHub | Jenkins | CI/CD | Infrastructure as Code | Cloud Automation | Monitoring
